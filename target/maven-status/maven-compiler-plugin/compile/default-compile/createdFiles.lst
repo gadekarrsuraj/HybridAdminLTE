@@ -1,0 +1,8 @@
+com\jbkoffline\qa\base\TestBase.class
+com\jbkoffline\qa\pages\RegisterPage.class
+com\jbkoffline\qa\pages\HomePage.class
+com\jbkoffline\qa\util\TestUtil.class
+com\jbkoffline\qa\pages\LoginPage.class
+com\jbkoffline\qa\pages\UsersPage.class
+com\jbkoffline\qa\util\WebEventListener.class
+com\jbkoffline\qa\pages\OperatorsPage.class

@@ -1,0 +1,5 @@
+com\jbkoffline\qa\testcases\RegisterPageTest.class
+com\jbkoffline\qa\testcases\OperatorsPageTest.class
+com\jbkoffline\qa\testcases\HomePageTest.class
+com\jbkoffline\qa\testcases\LoginPageTest.class
+com\jbkoffline\qa\testcases\UsersPageTest.class
